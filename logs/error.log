@@ -1,0 +1,129 @@
+{
+  message: 'Server started on port 3000',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-09T16:54:13.519Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-09T16:54:17.206Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: 'info',
+  timestamp: '2023-02-09T16:54:47.649Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-09T16:55:02.521Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: 'info',
+  timestamp: '2023-02-09T16:55:09.148Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: 'info',
+  timestamp: '2023-02-09T16:55:29.288Z'
+}
+{
+  message: 'Server started on port 3000',
+  level: 'info',
+  timestamp: '2023-02-09T16:55:38.277Z'
+}
+{ message: '', level: 'error', timestamp: '2023-02-09T16:56:03.076Z' }
+{ message: '', level: 'error', timestamp: '2023-02-09T16:56:03.174Z' }
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:56:30.872Z'
+}
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:56:30.930Z'
+}
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:57:12.310Z'
+}
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:57:12.433Z'
+}
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:57:58.247Z'
+}
+{
+  message: Error
+      at /home/mrtolqinbek/works/pg/resume/app.js:17:17
+      at Layer.handle [as handle_request] (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:144:13)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at next (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:140:7)
+      at Route.dispatch (/home/mrtolqinbek/works/pg/resume/node_modules/express/lib/router/route.js:114:3),
+  level: 'error',
+  timestamp: '2023-02-09T16:57:58.286Z'
+}
+{ message: '', level: 'error', timestamp: '2023-02-09T16:58:18.835Z' }
+{ message: '', level: 'error', timestamp: '2023-02-09T16:58:18.872Z' }
