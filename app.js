@@ -15,7 +15,7 @@ app.use(express.json())
 
 
 
-app.use("/api",authRoute)
+app.use(authRoute)
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
 app.all('*', async (req, res, next) => {
     return next(new ErrorApp(`page not found ${req.hostname}${req.originalUrl}`,404,"auth001"))
